@@ -1,0 +1,9 @@
+os-sys
+openai-whisper
+pandas
+soundfile
+librosa
+streamlit
+spacy
+nltk
+matplotlib
